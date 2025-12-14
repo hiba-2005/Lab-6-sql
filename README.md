@@ -14,12 +14,7 @@ Maîtriser :
 ## 📁 Livrable
 - `exercice_jointures.sql` : contient toutes les requêtes + création de la vue + CTE, avec commentaires SQL (`--`).
 
-## ▶️ Exécution
-Dans MySQL Workbench : ouvrir `exercice_jointures.sql` puis exécuter (⚡).
-Ou en ligne de commande :
-```bash
-mysql -u root -p universite < exercice_jointures.sql
-````
+
 
 #### Résultat visuel
 
@@ -38,12 +33,20 @@ mysql -u root -p universite < exercice_jointures.sql
 <div align="center"> <img src="image/image4.jpg" alt="Résultat image4" width="1000"/> <p><em>Figure 4</em></p> </div>
 
 
-
-<div align="center"> <img src="image/image5.jpg" alt="Résultat image5" width="1000"/> <p><em>Figure 5</em></p> </div>
-
-
-<div align="center"> <img src="image/image6.jpg" alt="Résultat image6" width="1000"/> <p><em>Figure 6</em></p> </div>
+<div align="center"> <img src="image/image5.jpg" alt="Résultat image5" width="1000"/> <p><em>Figure 5</em></p> </div>
 
 
+<div align="center"> <img src="image/image6.jpg" alt="Résultat image6" width="1000"/> <p><em>Figure 6</em></p> </div>
 
-<div align="center"> <img src="image/image13.jpg" alt="Résultat image13" width="1000"/> <p><em>Figure 13</em></p> </div>
+
+
+
+
+## ▶️ Exécution
+Dans MySQL Workbench : ouvrir `exercice_jointures.sql` puis exécuter (⚡).
+Ou en ligne de commande :
+```bash
+mysql -u root -p universite < exercice_jointures.sql
+````
+
+
